@@ -1,0 +1,7 @@
+name: anytime_sorting
+dependencies:
+  - python=3.9
+  - numpy
+  - pip
+  - pip:
+      - loguru

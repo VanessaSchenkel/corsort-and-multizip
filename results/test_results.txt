@@ -1,0 +1,300 @@
+File: list_few_duplicates_32.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 126
+Multizip Comparisons: 126
+Spearman Distance Corsort: 0.13033873343151695
+Spearman Distance Multizip Sort: 0.13033873343151695
+Classification Error Corsort: 30
+Classification Error Multizip Sort: 30
+
+File: list_sorted_64.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 285
+Multizip Comparisons: 321
+Spearman Distance Corsort: 0.9999999999999998
+Spearman Distance Multizip Sort: 0.9999999999999998
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_few_duplicates_8.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 15
+Multizip Comparisons: 17
+Spearman Distance Corsort: 0.9451219512195123
+Spearman Distance Multizip Sort: 0.9451219512195123
+Classification Error Corsort: 2
+Classification Error Multizip Sort: 2
+
+File: list_many_duplicates_256.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 1772
+Multizip Comparisons: 1711
+Spearman Distance Corsort: 0.06338218851068732
+Spearman Distance Multizip Sort: 0.06338218851068732
+Classification Error Corsort: 254
+Classification Error Multizip Sort: 254
+
+File: list_sorted_256.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 1619
+Multizip Comparisons: 1793
+Spearman Distance Corsort: 0.9999999999999998
+Spearman Distance Multizip Sort: 0.9999999999999998
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_few_duplicates_256.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 1800
+Multizip Comparisons: 1726
+Spearman Distance Corsort: 0.004554779675274789
+Spearman Distance Multizip Sort: 0.004554779675274789
+Classification Error Corsort: 252
+Classification Error Multizip Sort: 252
+
+File: list_no_duplicates_256.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 1769
+Multizip Comparisons: 1746
+Spearman Distance Corsort: 0.043287222476539246
+Spearman Distance Multizip Sort: 0.043287222476539246
+Classification Error Corsort: 256
+Classification Error Multizip Sort: 256
+
+File: list_no_duplicates_32.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 122
+Multizip Comparisons: 125
+Spearman Distance Corsort: 0.24853372434017595
+Spearman Distance Multizip Sort: 0.24853372434017595
+Classification Error Corsort: 30
+Classification Error Multizip Sort: 30
+
+File: list_reversed_32.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 114
+Multizip Comparisons: 129
+Spearman Distance Corsort: -1.0
+Spearman Distance Multizip Sort: -1.0
+Classification Error Corsort: 32
+Classification Error Multizip Sort: 32
+
+File: list_many_duplicates_32.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 123
+Multizip Comparisons: 120
+Spearman Distance Corsort: 0.02422177196537115
+Spearman Distance Multizip Sort: 0.02422177196537115
+Classification Error Corsort: 27
+Classification Error Multizip Sort: 27
+
+File: list_reversed_256.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 1652
+Multizip Comparisons: 1793
+Spearman Distance Corsort: -0.9999999999999998
+Spearman Distance Multizip Sort: -0.9999999999999998
+Classification Error Corsort: 256
+Classification Error Multizip Sort: 256
+
+File: list_many_duplicates_8.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 16
+Multizip Comparisons: 15
+Spearman Distance Corsort: 0.055555555555555546
+Spearman Distance Multizip Sort: 0.055555555555555546
+Classification Error Corsort: 4
+Classification Error Multizip Sort: 4
+
+File: list_sorted_16.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 43
+Multizip Comparisons: 49
+Spearman Distance Corsort: 1.0
+Spearman Distance Multizip Sort: 1.0
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_few_duplicates_64.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 309
+Multizip Comparisons: 304
+Spearman Distance Corsort: 0.17844462260909402
+Spearman Distance Multizip Sort: 0.17844462260909402
+Classification Error Corsort: 63
+Classification Error Multizip Sort: 63
+
+File: list_sorted_8.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 14
+Multizip Comparisons: 17
+Spearman Distance Corsort: 1.0
+Spearman Distance Multizip Sort: 1.0
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_no_duplicates_128.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 749
+Multizip Comparisons: 746
+Spearman Distance Corsort: -0.089572651529024
+Spearman Distance Multizip Sort: -0.089572651529024
+Classification Error Corsort: 127
+Classification Error Multizip Sort: 127
+
+File: list_sorted_32.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 111
+Multizip Comparisons: 129
+Spearman Distance Corsort: 1.0
+Spearman Distance Multizip Sort: 1.0
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_reversed_128.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 705
+Multizip Comparisons: 769
+Spearman Distance Corsort: -1.0
+Spearman Distance Multizip Sort: -1.0
+Classification Error Corsort: 128
+Classification Error Multizip Sort: 128
+
+File: list_no_duplicates_16.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 46
+Multizip Comparisons: 45
+Spearman Distance Corsort: 0.1764705882352941
+Spearman Distance Multizip Sort: 0.1764705882352941
+Classification Error Corsort: 15
+Classification Error Multizip Sort: 15
+
+File: list_reversed_16.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 42
+Multizip Comparisons: 49
+Spearman Distance Corsort: -1.0
+Spearman Distance Multizip Sort: -1.0
+Classification Error Corsort: 16
+Classification Error Multizip Sort: 16
+
+File: list_many_duplicates_16.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 46
+Multizip Comparisons: 46
+Spearman Distance Corsort: 0.5788667687595711
+Spearman Distance Multizip Sort: 0.5788667687595711
+Classification Error Corsort: 10
+Classification Error Multizip Sort: 10
+
+File: list_no_duplicates_64.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 310
+Multizip Comparisons: 305
+Spearman Distance Corsort: -0.011126373626373625
+Spearman Distance Multizip Sort: -0.011126373626373625
+Classification Error Corsort: 64
+Classification Error Multizip Sort: 64
+
+File: list_reversed_64.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 288
+Multizip Comparisons: 321
+Spearman Distance Corsort: -0.9999999999999998
+Spearman Distance Multizip Sort: -0.9999999999999998
+Classification Error Corsort: 64
+Classification Error Multizip Sort: 64
+
+File: list_many_duplicates_64.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 305
+Multizip Comparisons: 306
+Spearman Distance Corsort: 0.02836488812392427
+Spearman Distance Multizip Sort: 0.02836488812392427
+Classification Error Corsort: 62
+Classification Error Multizip Sort: 62
+
+File: list_sorted_128.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 696
+Multizip Comparisons: 769
+Spearman Distance Corsort: 1.0
+Spearman Distance Multizip Sort: 1.0
+Classification Error Corsort: 0
+Classification Error Multizip Sort: 0
+
+File: list_many_duplicates_128.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 752
+Multizip Comparisons: 736
+Spearman Distance Corsort: -0.048984102354157066
+Spearman Distance Multizip Sort: -0.048984102354157066
+Classification Error Corsort: 125
+Classification Error Multizip Sort: 125
+
+File: list_reversed_8.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 14
+Multizip Comparisons: 17
+Spearman Distance Corsort: -1.0
+Spearman Distance Multizip Sort: -1.0
+Classification Error Corsort: 8
+Classification Error Multizip Sort: 8
+
+File: list_no_duplicates_8.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 16
+Multizip Comparisons: 17
+Spearman Distance Corsort: 0.19047619047619052
+Spearman Distance Multizip Sort: 0.19047619047619052
+Classification Error Corsort: 6
+Classification Error Multizip Sort: 6
+
+File: list_few_duplicates_16.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 45
+Multizip Comparisons: 44
+Spearman Distance Corsort: 0.08592592592592592
+Spearman Distance Multizip Sort: 0.08592592592592592
+Classification Error Corsort: 14
+Classification Error Multizip Sort: 14
+
+File: list_few_duplicates_128.txt
+Corsort Correct: True
+Multizip Correct: True
+Corsort Comparisons: 755
+Multizip Comparisons: 732
+Spearman Distance Corsort: 0.04679563307530513
+Spearman Distance Multizip Sort: 0.04679563307530513
+Classification Error Corsort: 126
+Classification Error Multizip Sort: 126
+

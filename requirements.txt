@@ -1,0 +1,24 @@
+contourpy==1.2.1
+cycler==0.12.1
+fonttools==4.53.1
+importlib_resources==6.4.0
+kiwisolver==1.4.5
+loguru==0.7.2
+matplotlib==3.9.1
+memory-profiler==0.61.0
+mkl-fft @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_af8wl3mjfu/croot/mkl_fft_1695058185839/work
+mkl-random @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0fq2s894lk/croot/mkl_random_1695059822529/work
+mkl-service==2.4.0
+numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp39-cp39-macosx_10_9_x86_64.whl#sha256=1ca37e4fdfd421b20423d3f5f08de21aeee8ef917ddcee6667076d3dc7937879
+packaging==24.1
+pandas==2.2.2
+pillow==10.4.0
+psutil==6.0.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+scipy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_016_yoiwt8/croot/scipy_1710947331018/work/dist/scipy-1.12.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=8c56553d2d5356f70cfc5afb9d2753d2f1c66b3694032150d268e8251c3068c6
+seaborn==0.13.2
+six==1.16.0
+tzdata==2024.1
+zipp==3.19.2
